@@ -1,0 +1,25 @@
+messages:
+  start:
+    "
+    <b> Добро пожаловать в модель искусственного интеллекта для распознания автомобилей! </b>
+    
+    <em>Отправь мне фото, и я предположу, что за автомобиль на нем.</em>
+    
+    
+    Доступные автомобили на данный момент:
+    <blockquote>
+    - <u>Audi</u>
+    
+    - <u>Hyundai Creta</u>
+    
+    - <u>Mahindra Scorpio</u>
+    
+    - <u>Rolls Royce</u>
+    
+    - <u>Swift</u>
+    
+    - <u>Tata Safari</u>
+    
+    - <u>Toyota Innova</u>
+    </blockquote>
+    "
